@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Trust in Government and Media Consumption
 
 # Introduction
 
@@ -10,12 +10,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic:
 
-Describe research topic
+Using data from the American National Election Studies, you will examine the relationship between trust in government and media consumption. You will also examine whether this relationship varies by gender.
 
 ### Research questions
 
-1.  x related to y
-2.  contextual variable
+1.  What is the relationship between a person's overall trust in government and their level of consumption of traditional and online media sources?
+2.  How does the relationship between trust in government and media consumption vary by gender?
 
 ## Technical Details
 
