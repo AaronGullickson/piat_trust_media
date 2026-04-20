@@ -12,6 +12,6 @@ From the full data, I have extracted and recoded the following variables for our
 -   **media_trad**: Respondents were asked how many days a week they used the following news sources: broadcast TV, cable TV, radio, print newspaper. This variable takes the mean across all four variables and ranges from zero to seven days. Along with **media_online**, this is the key independent variable.
 -   **media_online**: Respondents were asked how many days a week they used the following news sources: online news outlets, social media. This variable takes the mean across both variables and ranges from zero to seven days. Along with **media_trad**, this is the key independent variable.
 -   **age**: The respondent's age in years.
--   **sex**: The sex of the respondent, recorded as male or female.
+-   **sex**: The sex of the respondent, recorded as male or female. This is the key contextual variable.
 -   **educ**: The educational level of the respondent measured in five ordinal categories.
 -   **party_affiliation**: The party affiliation of the respondent. Individuals were originally asked a seven point scale from Strong Democrat to Strong Republican, with Independent in the center. Independents how reported that they leaned in one party direction or another were included with that party for this variable.
