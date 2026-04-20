@@ -10,12 +10,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic:
 
-Using data from the American National Election Studies, you will examine the relationship between trust in government and media consumption. You will also examine whether this relationship varies by gender.
+Using data from the American National Election Studies, you will examine the relationship between trust in government and media consumption. You will also examine whether this relationship varies by sex.
 
 ### Research questions
 
 1.  What is the relationship between a person's overall trust in government and their level of consumption of traditional and online media sources?
-2.  How does the relationship between trust in government and media consumption vary by gender?
+2.  How does the relationship between trust in government and media consumption vary by sex?
 
 ## Technical Details
 
